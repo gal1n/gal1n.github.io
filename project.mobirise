@@ -777,7 +777,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/91uf42im6xl.-sl1500-3-1500x1500.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -793,8 +793,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/91uf42im6xl.-sl1500-4-1500x1500.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/91uf42im6xl.-sl1500-1-1500x1500.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
